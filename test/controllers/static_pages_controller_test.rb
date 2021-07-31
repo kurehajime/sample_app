@@ -1,5 +1,4 @@
 require 'test_helper'
-require "application_helper"
 
 class StaticPagesControllerTest < ActionDispatch::IntegrationTest
   test "should get home" do
